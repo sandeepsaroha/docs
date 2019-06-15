@@ -27,11 +27,11 @@
    {
       "id" : 1,
       "groupName": "Group Admins",
-      "userIds" : 1,2
+      "userIds" : [1,2]
    },   
     {  "id" :2,
        "groupName": "Group Support",
-       "userIds" : 2,3,4
+       "userIds" : [2,3,4]
    }
    ],
       
