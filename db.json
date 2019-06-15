@@ -26,12 +26,12 @@
  "groups":[
    {
        "gId" : "1",
-       "groupName": "Group Admins",
-       "userIds" : ["1","2"]
+       "groupName": "Group Admins"
+      
    },   
     {   "gId" : "2",
-       "groupName": "Group Support",
-        "userIds" : ["3","5"]
+       "groupName": "Group Support"
+       
    }
    ],
         
