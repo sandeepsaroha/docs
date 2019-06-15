@@ -28,7 +28,7 @@
        "gId" : "1",
        "userIds": [{"1"},{"2"}],
        "groupName": "Group Admins"
-   },   {
+   },   
     {   "gId" : "2",
        "userIds": [{"1"},{"3"}],
        "groupName": "Group Support"
