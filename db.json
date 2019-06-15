@@ -27,17 +27,11 @@
    {
        "gId" : "1",
        "groupName": "Group Admins",
-       "users" : [{
-           "user" : "1",
-           "user" : "2"
-       }]
+       "userIds" : ["1","2"]
    },   
     {   "gId" : "2",
        "groupName": "Group Support",
-       "users" : [{
-           "user" : "3",
-           "user" : "4"
-       }]
+        "userIds" : ["3","5"]
    }
    ],
         
