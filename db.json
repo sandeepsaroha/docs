@@ -25,11 +25,11 @@
 }],
  "groups":[
    {
-       "id" : "1",
-       "groupName": "Group Admins",
+      "id" : "1",
+      "groupName": "Group Admins",
       "userIds" : "1"
    },   
-    {   "id" : "2",
+    {  "id" : "2",
        "groupName": "Group Support",
        "userIds" : "2"
    }
