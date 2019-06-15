@@ -31,7 +31,7 @@
    },   
     {   "gId" : "2",
        "groupName": "Group Support",
-       "userIds : "2"
+       "userIds" : "2"
    }
    ],
       
