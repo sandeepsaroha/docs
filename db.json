@@ -23,15 +23,7 @@
     "bs": "synergize scalable supply-chains"
   }
 }],
- "groups":[
-   {
-       "gId" : "1",
-       "groupName": "Group Admins"
-   },   
-    {   "gId" : "2",
-       "groupName": "Group Support"
-   }
-   ],
+
         
   "posts": [
     {
